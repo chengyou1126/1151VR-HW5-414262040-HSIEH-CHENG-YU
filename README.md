@@ -1,7 +1,8 @@
 # 1151VR-HW5 - 寶可夢精靈球收服小遊戲
 
 ## 1. 專案截圖
-(你可以把截圖拖曳上傳到這裡，GitHub 會自動產生圖片語法)
+<img width="986" height="488" alt="image" src="https://github.com/user-attachments/assets/08a0e827-878d-4d93-b5eb-3ab275920fc3" />
+
 
 ## 2. GitHub 連結
 https://github.com/chengyou1126/1151VR-HW5-414262040-HSIEH-CHENG-YU/new/main?filename=README.md
