@@ -1,4 +1,4 @@
-# 1151VR-HW5 - 寶可夢精靈球收服小遊戲
+# 1151VR-HW5
 
 ## 1. 專案截圖
 <img width="986" height="488" alt="image" src="https://github.com/user-attachments/assets/08a0e827-878d-4d93-b5eb-3ab275920fc3" />
